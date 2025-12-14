@@ -1,0 +1,7 @@
+infix.o
+istack.o
+lex.o
+main.o
+node.o
+list.o
+functions.o
