@@ -28,7 +28,7 @@ void addDigit(number *a, char ch) {
 }
 int length(number c) {
 	node *p;
-       	p = c.head;
+    p = c.head;
 	int count = 0;
 	while(p != NULL) {
 		count++;
